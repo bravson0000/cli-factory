@@ -1,0 +1,3 @@
+# Requirements for cli-factory
+
+# Add any dependencies for your CLI app here.
